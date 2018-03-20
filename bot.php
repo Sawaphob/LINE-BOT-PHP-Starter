@@ -25,4 +25,4 @@ if (!is_null($events['events'])) {	// Loop through each event
 }
 }
 echo "OK";
-echo "123";
+echo "1";
